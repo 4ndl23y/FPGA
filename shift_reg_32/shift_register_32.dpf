@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="clk" direction="Unknown" source="Pin Planner" >
+		</pin>
+		<pin name="data" direction="Unknown" source="Pin Planner" >
+		</pin>
+		<pin name="q[0]" direction="Unknown" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
